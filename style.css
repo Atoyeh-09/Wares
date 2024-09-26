@@ -10,10 +10,13 @@ body {
 		url('https://hdqwalls.com/wallpapers/cyberpunk-city-world-map-4k-vc.jpg');
 	background-repeat: no-repeat;
 	background-size: cover; 
-  	background-attachment: fixed;
+  background-attachment: fixed;
 }
-
 h1 {
+	display: none;
+	}
+
+h2 {
   text-align: center;
 }
 
@@ -32,6 +35,12 @@ p a:hover, table a:hover, ul a:hover {
 	transform: scale(1.5);
 	background: none;
 	text-decoration: none;
+}
+
+img {
+	padding-left: 5px;
+	width: 20px;
+	height: 20px;
 }
 
 /* Enable smooth scrolling */
