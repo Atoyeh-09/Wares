@@ -15,4 +15,4 @@
 
 | Name | Description |
 | :---: | --- |
-| Nothing Here Bye | ![Linux Icon](/linux.svg) ![Windows Icon](/windows.svg) ![Apple Icon](/apple.svg	) |
+| Nothing Here Bye | ![Linux Icon](/linux.svg) ![Windows Icon](/windows.svg) ![Apple Icon](/apple.svg) |
