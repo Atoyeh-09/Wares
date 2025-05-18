@@ -38,7 +38,7 @@ p a:hover, table a:hover, ul a:hover {
 	text-decoration: none;
 }
 
-img {
+.markdown-body img {
 	background-color: #00000000;
 	padding-left: 5px;
 	width: 20px;
